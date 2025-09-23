@@ -6,7 +6,12 @@ Through my personal quote, I am driven by the belief that ethical & responsible 
 Hello, I’m Sundar Ram Subramanian, a budding Data Scientist & a ML Engineer pursuing Masters in Information Science with specialization in Machine Learning. A formerly Young Leadership Associate in Advanced Analytics of Titan Company Limited thriving on a diverse tapestry of experiences, embodying AI/ ML, Data Science & Business Analytics, Generative AI, Prompt Engineering, Product Development, Project Management, Leadership & a commitment to giving back. 
 
 ## 📈 My Professional Journey:
-My professional journey began at Titan Company Limited, where I joined as part of their New Product Development (NPD) team, contributing to the creation of over 600+ watch designs for the Sonata brand. I led product development efforts, product certifications, managed timelines, and brought innovative products to market, resulting in a 170% growth in >2k price band portfolio. The Top Management Team recognised me as one of the top 12% of companies' young talent & transitioned me in to the Young Leadership Program, where I gained cross-functional experience, including stints in Merchandising and Data Science. 
+My professional journey began at Titan Company Limited, where I joined as part of their New Product Development (NPD) team, contributing to the development of over 600+ watch designs for the Sonata brand. I led product analytics enabling data based decisions at the highest level, development efforts, product certifications, managed timelines, and brought innovative products to market, resulting in a 170% growth in >2k price band portfolio. The Top Management Team recognised me as one of the top 12% of companies' young talent & transitioned me in to the Young Leadership Program, where I gained cross-functional experience, including stints in Merchandising and Data Science. 
+
+## Some of my Academic & Volunteering Projects in AI:
+
+[Sentiment Analytics](https://github.com/sundarram1608/Google-Review-Analytics.git)
+
 
 ## 💼 What I Currently Do:
 I specialize in leveraging Large Language Models & Pre-trained ML models for 
