@@ -14,7 +14,7 @@ My professional journey began at Titan Company Limited, where I joined as part o
 [Loan Default Classification - A multiple model approach](https://github.com/sundarram1608/classification_german_bank_default_prediction.git)<br>
 [Statistical Analysis](https://github.com/sundarram1608/anova_pca.git)<br>
 [Artificial Neural Networks, Ensemble Models & Clustering](https://github.com/sundarram1608/clustering_tree-based_neural-networks.git)<br>
-[Time Series Foecasting](https://github.com/sundarram1608/forecasting_time_series.git)<br>
+[Time Series Forecasting](https://github.com/sundarram1608/forecasting_time_series.git)<br>
 
 I have also worked on Merchandising Analytics, as a part of my stint in Titan.
 
