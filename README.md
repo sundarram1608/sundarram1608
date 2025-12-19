@@ -20,18 +20,19 @@ My professional journey began at Titan Company Limited, where I joined as part o
 I have also worked on Merchandising Analytics, as a part of my stint in Titan.
 
 ## 💼 What I Currently Do:
-I specialize in leveraging Large Language Models & Pre-trained ML models for 
+- 💡Music Information Retrieval
+- 💡Machine Learning/ Deep Learning
+- 💡Natural Language Processing
+- 💡Large Language Models 
 - 💡Data Analytics 
-- 💡Clustering 
-- 💡Building Prediction models
-- 💡NLP (Text mining & sentiment analysis) 
-- 💡Build interactive UIs
+- 💡Interactive UIs using python
 
 ## 🧠 Key Skills & Expertise:
+- ✅ Audio Analytics: Pythonlibrosa, Music Information Retrieval 
 - ✅ Data Science & Analytics: Python, SQL, Tableau, MS Excel, Powerpoint, Word,AWS services (sagemaker, beanstalk, S3 , redshift)
 - ✅ Generative AI: Content Generation, Natural Language Processing (Text mining, Sentiment analysis) & Image Analytics (Image annotation)
 - ✅ Business Analytics: Customer segmentation, Consumer Behaviour, Non Purchaser Analysis, Store Clustering, Trend Analytics, Community Modelling & Network expansion
-- ✅ Product Development: Project management, Stakeholder engagement
+- ✅ Product Development: End-to-end Product design & development, Project management, Stakeholder engagement
 - ✅ Leadership: Cross-functional team management, strategic decision-making, mentorship
 
 ## 🌍 Community Engagement: 
