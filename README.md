@@ -9,6 +9,7 @@ Hello, I’m Sundar Ram Subramanian, a budding Data Scientist & a ML Engineer pu
 My professional journey began at Titan Company Limited, where I joined as part of their New Product Development (NPD) team, contributing to the development of over 600+ watch designs for the Sonata brand. I led product analytics enabling data based decisions at the highest level, development efforts, product certifications, managed timelines, and brought innovative products to market, resulting in a 170% growth in >2k price band portfolio. The Top Management Team recognised me as one of the top 12% of companies' young talent & transitioned me in to the Young Leadership Program, where I gained cross-functional experience, including stints in Merchandising and Data Science. 
 
 ## Top Academic & Volunteering Projects in AI/ML:
+[Carnatic Raga Identification](https://github.com/sundarram1608/Carnatic-Music-Raga-Identification-using-MIR-and-Deep-Learning) <br>
 [Sentiment Analytics on Google Reviews](https://github.com/sundarram1608/Google-Review-Analytics.git) <br>
 [Supply Chain Analytics](https://github.com/sundarram1608/supply_chain_analytics.git)<br>
 [Loan Default Classification - A multiple model approach](https://github.com/sundarram1608/classification_german_bank_default_prediction.git)<br>
