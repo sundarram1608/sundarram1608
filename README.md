@@ -18,7 +18,7 @@ My professional journey began at Titan Company Limited, where I joined as part o
 [Carnatic Raga Identification](https://github.com/sundarram1608/Carnatic-Music-Raga-Identification-using-MIR-and-Deep-Learning)<br>
 [Sentiment Analytics on Google Reviews](https://github.com/sundarram1608/Google-Review-Analytics.git)<br>
 [Natural Language Processing](https://github.com/sundarram1608/nlp_projects.git)<br>
-[Database Development & Management](https://github.com/sundarram1608/nlp_projects.git)<br>
+[Database Development & Management](https://github.com/sundarram1608/database_ui_development.git)<br>
 [Loan Default Classification - A multiple model approach](https://github.com/sundarram1608/classification_german_bank_default_prediction.git)<br>
 [Supply Chain Analytics](https://github.com/sundarram1608/supply_chain_analytics.git)<br>
 [Statistical Analysis](https://github.com/sundarram1608/anova_pca.git)<br>
