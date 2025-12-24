@@ -1,5 +1,5 @@
 ## 🌱Vision:
-*`“As Human Intelligence unites with Artificial Intelligence, Harness the Intelligence fusion that explodes.”`*
+*`“As Human Intelligence unites with Artificial Intelligence, Harness the Intelligence fusion that explodes.”`*<br>
 Through my personal quote, I am driven by the belief that ethical & responsible synergy between Human Intelligence and Artificial Intelligence has the potential to revolutionize the way we approach challenges and unlock new possibilities for global well-being.
 
 ## 🎓 About Me:
