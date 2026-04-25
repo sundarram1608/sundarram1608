@@ -1,27 +1,24 @@
-## 🌱Vision:
-*`“As Human Intelligence unites with Artificial Intelligence, Harness the Intelligence fusion that explodes.”`*<br>
-Through my personal quote, I am driven by the belief that ethical & responsible synergy between Human Intelligence and Artificial Intelligence has the potential to revolutionize the way we approach challenges and unlock new possibilities for global well-being.
-
 ## 🎓 About Me:
-Hello, I’m Sundar Ram Subramanian, a budding Data Scientist & a ML Engineer pursuing Masters in Information Science with emphasis in Machine Learning. A formerly Young Leadership Associate in Advanced Analytics of Titan Company Limited thriving on a diverse tapestry of experiences, embodying AI/ ML, Data Science & Business Analytics, Generative AI, Prompt Engineering, Product Development, Project Management, Leadership & a commitment to giving back. 
+Hello👋! I’m Sundar Ram Subramanian, a Data Scientist & ML Engineer pursuing Masters in Information Science. As a Graduate researcher, I fine-tune Multi-modal Large Language Models for domain adaptation, design and build customized Deep Learning pipelines, including Computer Vision for object detection and CNN-LSTM for time series music data, and implement CI/CD pipelines in AWS for university web applications. 
 
-## 📈 My Professional Journey:
-My professional journey began at Titan Company Limited, where I joined as part of their New Product Development (NPD) team, contributing to the development of over 600+ watch designs for the Sonata brand. I led product analytics enabling data based decisions at the highest level, development efforts, product certifications, managed timelines, and brought innovative products to market, resulting in a 170% growth in >2k price band portfolio. The Top Management Team recognised me as one of the top 12% of companies' young talent & transitioned me in to the Young Leadership Program, where I gained cross-functional experience, including stints in Merchandising and Data Science. I further worked with Advance Analytics team and contributed extensively towards Business Marketing & Analytics spanning from Database/ ML Model Building to LLM powered app development.
+Professionally, I was hand-picked as a Young Leadership Associate (top 10 % of young talent) in Titan Company Limited for exceptional Leadership qualities. I have a diverse tapestry of experiences, embodying AI/ ML, Data Science & Business Analytics, Generative AI, Prompt Engineering, Product Development, Project Management, Leadership & a commitment to giving back.
 
 ## 💼 What all I work on:
-- 💡Music Information Retrieval
-- 💡Natural Language Processing (Machine/ Deep Learning) 
 - 💡Business Analytics & Data Visualizations 
-- 💡Interactive UI Development using python
+- 💡Transfer Learning of Multimodal Large Language Models
+- 💡Natural Language Processing 
+- 💡Music Information Retrieval
+- 💡Interactive UI Development using Python.
 
 ## 🧠 Key Skills & Expertise:
-- ✅ Music Information Retreival: Python librosa, Audio Information Processing/ Extraction/ Visualization/ Analysis
-- ✅ Machine/ Deep Learning: Natural Language Processing (Preprocessing/ classification/ fine tuning LLMs)
-- ✅ Data Science: Python, SQL, Tableau, MS Excel, Powerpoint, Word,AWS services (sagemaker, beanstalk, S3 , redshift)
-- ✅ Generative AI: Prompt Engineering for Content Generation, Natural Language Processing (Text mining, Sentiment analysis) & Image Analytics (Image annotation)
-- ✅ Business Analytics: Customer segmentation, Consumer Behaviour, Non Purchaser Analysis, Store Clustering, Trend Analytics, Community Modelling & Network expansion
-- ✅ Product Development: End-to-end Product design & development, Product Life Cycle, Project management, Stakeholder engagement
-- ✅ Leadership: Cross-functional team management, strategic decision-making, peer mentorship.
+- ✅ ***Machine Learning, AI & Data Science:*** Generative AI, Transfer Learning, Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG), Agentic AI, Computer Vision, Prompt Engineering, Data Preparation, curation & visualization, Roboflow, Statistical & Business Analytics.
+- ✅ ***Programming Languages, Libraries & Databases:*** Python, SQL; TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face, Transformers, Gensim, SciPy, OpenCV, YOLO, Pandas, NumPy, Matplotlib, Seaborn, Boto3, MySQL; MySQL server, AWS Redshift & DynamoDB.
+- ✅ ***Data, Cloud & BI Tools:*** AWS, Streamlit applications, Tableau, Power BI, Advanced Excel, PowerPoint & GitHub.
+- ✅ ***Product & Program Management:*** Product Development, Project Management, Stakeholder Management & Vendor Management
+- ✅ ***Leadership:*** Cross-functional team management, strategic decision-making, peer mentorship.
+- ✅ ***Music Information Retrieval:*** Python librosa, Audio Information Processing/ Extraction/ Visualization/ Analysis
+
+Here's my personal [website](https://sundar-ram-subramanian-personal-portfolio.streamlit.app) and [Medium blog](https://medium.com/@sundarram1997), where I write articles on Deep Learning concepts and projects I am working on. 
 
 ## Key Projects in AI/ML:<br>
 [Carnatic Raga Identification](https://github.com/sundarram1608/Carnatic-Music-Raga-Identification-using-MIR-and-Deep-Learning)<br>
@@ -34,10 +31,15 @@ My professional journey began at Titan Company Limited, where I joined as part o
 [Artificial Neural Networks, Ensemble Models & Clustering](https://github.com/sundarram1608/clustering_tree-based_neural-networks.git)<br>
 [Time Series Forecasting](https://github.com/sundarram1608/forecasting_time_series.git)<br>
 
-I have also worked on Merchandising Analytics, as a part of my stint in Titan.
+I have also worked on Merchandising Analytics as a part of my stint at Titan.
+
+## 🌱Vision:
+*`“As Human Intelligence unites with Artificial Intelligence, Harness the Intelligence fusion that explodes.”`*<br>
+Through my personal quote, I am driven by the belief that ethical & responsible synergy between Human Intelligence and Artificial Intelligence has the potential to revolutionize the way we approach challenges and unlock new possibilities for global well-being.
+
 
 ## 🌍 Community Engagement: 
-I have been volunteering with Aasha Infinite Foundation since 2020, mentoring primary students to enhance spoken English skills.
+I have been volunteering with Aasha Infinite Foundation since 2020, mentoring primary students to enhance their spoken English skills and Career readiness.
 
 ## 🌟Also Interested in:
 Indian Carnatic Music, Athletics, Football & Community Development
