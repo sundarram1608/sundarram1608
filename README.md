@@ -18,7 +18,7 @@ Professionally, I was hand-picked as a Young Leadership Associate (top 10 % of y
 - ✅ ***Leadership:*** Cross-functional team management, strategic decision-making, peer mentorship.
 - ✅ ***Music Information Retrieval:*** Python librosa, Audio Information Processing/ Extraction/ Visualization/ Analysis
 
-Here's my personal [website](https://sundar-ram-subramanian-personal-portfolio.streamlit.app) and [Medium blog](https://medium.com/@sundarram1997), where I write articles on Deep Learning concepts and projects I am working on. 
+Here's my [Personal Website](https://sundar-ram-subramanian-personal-portfolio.streamlit.app) and [Medium blog](https://medium.com/@sundarram1997), where I write articles on Deep Learning concepts and projects I am working on. 
 
 ## Key Projects in AI/ML:<br>
 [Carnatic Raga Identification](https://github.com/sundarram1608/Carnatic-Music-Raga-Identification-using-MIR-and-Deep-Learning)<br>
@@ -36,6 +36,13 @@ I have also worked on Merchandising Analytics as a part of my stint at Titan.
 ## 🌱Vision:
 *`“As Human Intelligence unites with Artificial Intelligence, Harness the Intelligence fusion that explodes.”`*<br>
 Through my personal quote, I am driven by the belief that ethical & responsible synergy between Human Intelligence and Artificial Intelligence has the potential to revolutionize the way we approach challenges and unlock new possibilities for global well-being.
+
+
+## 🌍 Community Engagement: 
+I have been volunteering with Aasha Infinite Foundation since 2020, mentoring primary students to enhance their spoken English skills and Career readiness.
+
+## 🌟Also Interested in:
+Indian Carnatic Music, Athletics, Football & Community Development
 
 
 ## 🌍 Community Engagement: 
