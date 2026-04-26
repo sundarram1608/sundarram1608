@@ -21,20 +21,21 @@ Professionally, I was hand-picked as a Young Leadership Associate (top 10 % of y
 Here's my [Personal Website](https://sundar-ram-subramanian-personal-portfolio.streamlit.app) and [Medium blog](https://medium.com/@sundarram1997), where I write articles on Deep Learning concepts and projects I am working on. 
 
 ## Key Projects in AI/ML:<br>
-[Carnatic Raga Identification](https://github.com/sundarram1608/Carnatic-Music-Raga-Identification-using-MIR-and-Deep-Learning)<br>
-[Sentiment Analytics on Google Reviews](https://github.com/sundarram1608/Google-Review-Analytics.git)<br>
-[Natural Language Processing](https://github.com/sundarram1608/nlp_projects.git)<br>
-[Database Development & Management](https://github.com/sundarram1608/database_ui_development.git)<br>
-[Loan Default Classification - A multiple model approach](https://github.com/sundarram1608/classification_german_bank_default_prediction.git)<br>
-[Supply Chain Analytics](https://github.com/sundarram1608/supply_chain_analytics.git)<br>
-[Statistical Analysis](https://github.com/sundarram1608/anova_pca.git)<br>
-[Artificial Neural Networks, Ensemble Models & Clustering](https://github.com/sundarram1608/clustering_tree-based_neural-networks.git)<br>
-[Time Series Forecasting](https://github.com/sundarram1608/forecasting_time_series.git)<br>
+[Transfer Learning - Finetuning MusicGen & Statistical Evaluation](https://github.com/sundarram1608/finetuning-musicgen-small-carnatic-continuation)\
+[Sentiment Analytics on Google Reviews](https://github.com/sundarram1608/Google-Review-Analytics.git)\
+[Natural Language Processing](https://github.com/sundarram1608/nlp_projects.git)\
+[Carnatic Raga Identification](https://github.com/sundarram1608/Carnatic-Music-Raga-Identification-using-MIR-and-Deep-Learning)\
+[Database Development & Management](https://github.com/sundarram1608/database_ui_development.git)\
+[Loan Default Classification - A multiple model approach](https://github.com/sundarram1608/classification_german_bank_default_prediction.git)\
+[Supply Chain Analytics](https://github.com/sundarram1608/supply_chain_analytics.git)\
+[Statistical Analysis](https://github.com/sundarram1608/anova_pca.git)\
+[Artificial Neural Networks, Ensemble Models & Clustering](https://github.com/sundarram1608/clustering_tree-based_neural-networks.git)\
+[Time Series Forecasting](https://github.com/sundarram1608/forecasting_time_series.git)\
 
 I have also worked on Merchandising Analytics as a part of my stint at Titan.
 
 ## 🌱Vision:
-*`“As Human Intelligence unites with Artificial Intelligence, Harness the Intelligence fusion that explodes.”`*<br>
+*`“As Human Intelligence unites with Artificial Intelligence, Harness the Intelligence fusion that explodes.”`*\
 Through my personal quote, I am driven by the belief that ethical & responsible synergy between Human Intelligence and Artificial Intelligence has the potential to revolutionize the way we approach challenges and unlock new possibilities for global well-being.
 
 
