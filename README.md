@@ -6,17 +6,17 @@ Professionally, I was hand-picked as a Young Leadership Associate (top 10 % of y
 ## 💼 What all I work on:
 💡 Business Analytics & Data Visualizations\
 💡 Transfer Learning of Multimodal Large Language Models\
-💡 Natural Language Processing 
-💡 Music Information Retrieval
-💡 Interactive UI Development using Python.
+💡 Natural Language Processing\
+💡 Music Information Retrieval\
+💡 Interactive UI Development using Python\
 
 ## 🧠 Key Skills & Expertise:
-✅ ***Machine Learning, AI & Data Science:*** Generative AI, Transfer Learning, Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG), Agentic AI, Computer Vision, Prompt Engineering, Data Preparation, curation & visualization, Roboflow, Statistical & Business Analytics.
-✅ ***Programming Languages, Libraries & Databases:*** Python, SQL; TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face, Transformers, Gensim, SciPy, OpenCV, YOLO, Pandas, NumPy, Matplotlib, Seaborn, Boto3, MySQL; MySQL server, AWS Redshift & DynamoDB.
-✅ ***Data, Cloud & BI Tools:*** AWS, Streamlit applications, Tableau, Power BI, Advanced Excel, PowerPoint & GitHub.
-✅ ***Product & Program Management:*** Product Development, Project Management, Stakeholder Management & Vendor Management
-✅ ***Leadership:*** Cross-functional team management, strategic decision-making, peer mentorship.
-✅ ***Music Information Retrieval:*** Python librosa, Audio Information Processing/ Extraction/ Visualization/ Analysis
+✅ ***Machine Learning, AI & Data Science:*** Generative AI, Transfer Learning, Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG), Agentic AI, Computer Vision, Prompt Engineering, Data Preparation, curation & visualization, Roboflow, Statistical & Business Analytics.\
+✅ ***Programming Languages, Libraries & Databases:*** Python, SQL; TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face, Transformers, Gensim, SciPy, OpenCV, YOLO, Pandas, NumPy, Matplotlib, Seaborn, Boto3, MySQL; MySQL server, AWS Redshift & DynamoDB.\
+✅ ***Data, Cloud & BI Tools:*** AWS, Streamlit applications, Tableau, Power BI, Advanced Excel, PowerPoint & GitHub.\
+✅ ***Product & Program Management:*** Product Development, Project Management, Stakeholder Management & Vendor Management\
+✅ ***Leadership:*** Cross-functional team management, strategic decision-making, peer mentorship.\
+✅ ***Music Information Retrieval:*** Python librosa, Audio Information Processing/ Extraction/ Visualization/ Analysis\
 
 Here's my [Personal Website](https://sundar-ram-subramanian-personal-portfolio.streamlit.app) and [Medium blog](https://medium.com/@sundarram1997), where I write articles on Deep Learning concepts and projects I am working on. 
 
