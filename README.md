@@ -30,7 +30,7 @@ Here's my [Personal Website](https://sundar-ram-subramanian-personal-portfolio.s
 [Supply Chain Analytics](https://github.com/sundarram1608/supply_chain_analytics.git)\
 [Statistical Analysis](https://github.com/sundarram1608/anova_pca.git)\
 [Artificial Neural Networks, Ensemble Models & Clustering](https://github.com/sundarram1608/clustering_tree-based_neural-networks.git)\
-[Time Series Forecasting](https://github.com/sundarram1608/forecasting_time_series.git)\
+[Time Series Forecasting](https://github.com/sundarram1608/forecasting_time_series.git)
 
 I have also worked on Merchandising Analytics as a part of my stint at Titan.
 
