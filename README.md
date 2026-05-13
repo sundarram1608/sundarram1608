@@ -4,8 +4,9 @@ Hello👋! I’m Sundar Ram Subramanian, a Data Scientist & ML Engineer pursuing
 Professionally, I was hand-picked as a Young Leadership Associate (top 10 % of young talent) in Titan Company Limited for exceptional Leadership qualities. I have a diverse tapestry of experiences, embodying AI/ ML, Data Science & Business Analytics, Generative AI, Prompt Engineering, Product Development, Project Management, Leadership & a commitment to giving back.
 
 ## 💼 What all I work on:
-💡 Business Analytics & Data Visualizations\
+💡 Generative AI & Agentic AI\ 
 💡 Transfer Learning of Multimodal Large Language Models\
+💡 Business Analytics & Data Visualizations\
 💡 Natural Language Processing\
 💡 Music Information Retrieval\
 💡 Interactive UI Development using Python
@@ -32,8 +33,6 @@ Here's my [Personal Website](https://sundar-ram-subramanian-personal-portfolio.s
 [Statistical Analysis](https://github.com/sundarram1608/anova_pca.git)\
 [Artificial Neural Networks, Ensemble Models & Clustering](https://github.com/sundarram1608/clustering_tree-based_neural-networks.git)\
 [Time Series Forecasting](https://github.com/sundarram1608/forecasting_time_series.git)
-
-I have also worked on Merchandising Analytics as a part of my stint at Titan.
 
 ## 🌱Vision:
 *`“As Human Intelligence unites with Artificial Intelligence, Harness the Intelligence fusion that explodes.”`*\
