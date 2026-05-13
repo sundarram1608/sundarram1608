@@ -21,6 +21,7 @@ Professionally, I was hand-picked as a Young Leadership Associate (top 10 % of y
 Here's my [Personal Website](https://sundar-ram-subramanian-personal-portfolio.streamlit.app) and [Medium blog](https://medium.com/@sundarram1997), where I write articles on Deep Learning concepts and projects I am working on. 
 
 ## Key Projects in AI/ML:<br>
+[Multi Agentic AI - The Merchandiser Copilot for Non Purchasers](https://github.com/sundarram1608/Multi-Agentic_Merchandiser-NonPurchaser_Analytics.git)
 [Transfer Learning - Finetuning MusicGen & Statistical Evaluation](https://github.com/sundarram1608/finetuning-musicgen-small-carnatic-continuation)\
 [Sentiment Analytics on Google Reviews](https://github.com/sundarram1608/Google-Review-Analytics.git)\
 [Natural Language Processing](https://github.com/sundarram1608/nlp_projects.git)\
