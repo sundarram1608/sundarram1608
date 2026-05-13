@@ -11,7 +11,7 @@ Professionally, I was hand-picked as a Young Leadership Associate (top 10 % of y
 💡 Interactive UI Development using Python
 
 ## 🧠 Key Skills & Expertise:
-✅ ***Machine Learning, AI & Data Science:*** Generative AI, Transfer Learning, Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG), Agentic AI, Computer Vision, Prompt Engineering, Data Preparation, curation & visualization, Roboflow, Statistical & Business Analytics.\
+✅ ***AI & Gen AI:*** Agentic AI, LLM, Transfer Learning, Prompt Engineering, Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG), Computer Vision, Data curation and visualization, EDA, Roboflow, Statistical & Business Analytics.\
 ✅ ***Programming Languages, Libraries & Databases:*** Python, SQL; TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face, Transformers, Gensim, SciPy, OpenCV, YOLO, Pandas, NumPy, Matplotlib, Seaborn, Boto3, MySQL; MySQL server, AWS Redshift & DynamoDB.\
 ✅ ***Data, Cloud & BI Tools:*** AWS, Streamlit applications, Tableau, Power BI, Advanced Excel, PowerPoint & GitHub.\
 ✅ ***Product & Program Management:*** Product Development, Project Management, Stakeholder Management & Vendor Management\
@@ -21,7 +21,7 @@ Professionally, I was hand-picked as a Young Leadership Associate (top 10 % of y
 Here's my [Personal Website](https://sundar-ram-subramanian-personal-portfolio.streamlit.app) and [Medium blog](https://medium.com/@sundarram1997), where I write articles on Deep Learning concepts and projects I am working on. 
 
 ## Key Projects in AI/ML:<br>
-[Multi Agentic AI - The Merchandiser Copilot for Non Purchasers](https://github.com/sundarram1608/Multi-Agentic_Merchandiser-NonPurchaser_Analytics.git)
+[Multi Agentic AI - The Merchandiser Copilot for Non Purchasers](https://github.com/sundarram1608/Multi-Agentic_Merchandiser-NonPurchaser_Analytics.git)\
 [Transfer Learning - Finetuning MusicGen & Statistical Evaluation](https://github.com/sundarram1608/finetuning-musicgen-small-carnatic-continuation)\
 [Sentiment Analytics on Google Reviews](https://github.com/sundarram1608/Google-Review-Analytics.git)\
 [Natural Language Processing](https://github.com/sundarram1608/nlp_projects.git)\
