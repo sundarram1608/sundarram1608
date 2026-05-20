@@ -8,7 +8,7 @@ Professionally, I was hand-picked as a Young Leadership Associate (top 10 % of y
 💡 Transfer Learning of Multimodal Large Language Models\
 💡 Music Information Retrieval\
 💡 Natural Language Processing\
-💡 Interactive UI Development using Python
+💡 Interactive UI Development using Python\
 💡 Business Analytics & Data Visualizations\
 
 ## 🧠 Key Skills & Expertise:
