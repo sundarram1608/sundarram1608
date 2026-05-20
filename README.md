@@ -1,30 +1,30 @@
+Hello👋! I’m Sundar Ram Subramanian, a Graduate Researcher & AI Engineer with expertise in AI, Gen AI and Music Information Retrieval. As a Graduate researcher, I fine-tune Multi-modal Large Language Models for domain adaptation, design and build customized Deep Learning and Multi Agentic pipelines, including Computer Vision for object detection and CNN-LSTM for time series music data, and implement CI/CD pipelines in AWS for university web applications. 
 ## 🎓 About Me:
-Hello👋! I’m Sundar Ram Subramanian, a Data Scientist & ML Engineer pursuing Masters in Information Science. As a Graduate researcher, I fine-tune Multi-modal Large Language Models for domain adaptation, design and build customized Deep Learning pipelines, including Computer Vision for object detection and CNN-LSTM for time series music data, and implement CI/CD pipelines in AWS for university web applications. 
 
 Professionally, I was hand-picked as a Young Leadership Associate (top 10 % of young talent) in Titan Company Limited for exceptional Leadership qualities. I have a diverse tapestry of experiences, embodying AI/ ML, Data Science & Business Analytics, Generative AI, Prompt Engineering, Product Development, Project Management, Leadership & a commitment to giving back.
 
 ## 💼 What all I work on:
 💡 Generative AI & Agentic AI\
 💡 Transfer Learning of Multimodal Large Language Models\
-💡 Business Analytics & Data Visualizations\
-💡 Natural Language Processing\
 💡 Music Information Retrieval\
+💡 Natural Language Processing\
 💡 Interactive UI Development using Python
+💡 Business Analytics & Data Visualizations\
 
 ## 🧠 Key Skills & Expertise:
-✅ ***AI & Gen AI:*** Agentic AI, LLM, Transfer Learning, Prompt Engineering, Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG), Computer Vision, Data curation and visualization, EDA, Roboflow, Statistical & Business Analytics.\
+✅ ***AI & Gen AI:*** Agentic AI, LLM, Transfer Learning, Prompt Engineering, Music Information Retrieval, Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG), Computer Vision, Data curation and visualization, EDA, Roboflow, Statistical & Business Analytics.\
 ✅ ***Programming Languages, Libraries & Databases:*** Python, SQL; TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face, Transformers, Gensim, SciPy, OpenCV, YOLO, Pandas, NumPy, Matplotlib, Seaborn, Boto3, MySQL; MySQL server, AWS Redshift & DynamoDB.\
 ✅ ***Data, Cloud & BI Tools:*** AWS, Streamlit applications, Tableau, Power BI, Advanced Excel, PowerPoint & GitHub.\
 ✅ ***Product & Program Management:*** Product Development, Project Management, Stakeholder Management & Vendor Management\
 ✅ ***Leadership:*** Cross-functional team management, strategic decision-making, peer mentorship.\
 ✅ ***Music Information Retrieval:*** Python librosa, Audio Information Processing/ Extraction/ Visualization/ Analysis
 
-Here's my [Personal Website](https://sundar-ram-subramanian-personal-portfolio.streamlit.app) and [Medium blog](https://medium.com/@sundarram1997), where I write articles on Deep Learning concepts and projects I am working on. 
+Here's my [Medium blog](https://medium.com/@sundarram1997), where I write articles on Deep Learning concepts and projects I am working on. 
 
-## Key Projects in AI/ML:<br>
+## Key Projects in AI/ML/MIR:<br>
 [Multi Agentic AI - The Merchandiser Copilot for Non Purchasers](https://github.com/sundarram1608/Multi-Agentic_Merchandiser-NonPurchaser_Analytics.git)\
-[Transfer Learning - Finetuning MusicGen & Statistical Evaluation](https://github.com/sundarram1608/finetuning-musicgen-small-carnatic-continuation)\
-[Carnatic Raga Identification](https://github.com/sundarram1608/Carnatic-Music-Raga-Identification-using-MIR-and-Deep-Learning)\
+[Transfer Learning & MIR - Finetuning MusicGen & Statistical Evaluation](https://github.com/sundarram1608/finetuning-musicgen-small-carnatic-continuation)\
+[Deep Learning - Carnatic Raga Identification](https://github.com/sundarram1608/Carnatic-Music-Raga-Identification-using-MIR-and-Deep-Learning)\
 [Sentiment Analytics on Google Reviews](https://github.com/sundarram1608/Google-Review-Analytics.git)\
 [Natural Language Processing](https://github.com/sundarram1608/nlp_projects.git)\
 [Database Development & Management](https://github.com/sundarram1608/database_ui_development.git)\
@@ -37,13 +37,6 @@ Here's my [Personal Website](https://sundar-ram-subramanian-personal-portfolio.s
 ## 🌱Vision:
 *`“As Human Intelligence unites with Artificial Intelligence, Harness the Intelligence fusion that explodes.”`*\
 Through my personal quote, I am driven by the belief that ethical & responsible synergy between Human Intelligence and Artificial Intelligence has the potential to revolutionize the way we approach challenges and unlock new possibilities for global well-being.
-
-
-## 🌍 Community Engagement: 
-I have been volunteering with Aasha Infinite Foundation since 2020, mentoring primary students to enhance their spoken English skills and Career readiness.
-
-## 🌟Also Interested in:
-Indian Carnatic Music, Athletics, Football & Community Development
 
 
 ## 🌍 Community Engagement: 
