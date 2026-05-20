@@ -9,7 +9,7 @@ Professionally, I was hand-picked as a Young Leadership Associate (top 10 % of y
 💡 Music Information Retrieval\
 💡 Natural Language Processing\
 💡 Interactive UI Development using Python\
-💡 Business Analytics & Data Visualizations\
+💡 Business Analytics & Data Visualizations
 
 ## 🧠 Key Skills & Expertise:
 ✅ ***AI & Gen AI:*** Agentic AI, LLM, Transfer Learning, Prompt Engineering, Music Information Retrieval, Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG), Computer Vision, Data curation and visualization, EDA, Roboflow, Statistical & Business Analytics.\
